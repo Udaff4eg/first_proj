@@ -1,0 +1,12 @@
+.container {
+	margin: 0 auto;
+	width: 1240px;
+}
+th {
+	border-top: 0 !important;
+}
+input.form-control {
+	display: inline-block;
+	width: 60px;
+	margin-right: 13px;
+}
